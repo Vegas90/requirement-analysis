@@ -36,6 +36,7 @@ This are diagrams that show how different users interact with the system to achi
 1. it provides a clear presenatations of the users and their different roles 
 2. it helps to see the system functionalities. 
 
+Use Case Diagram - https://github.com/Vegas90/requirement-analysis/blob/main/alx-booking-uc.png
 
 "Acceptance Criteria"
 This are conditions that a feature must meet to be accepted by the stakeholders. Helps to have a clearer udnerstanding of the feature requirements and also provide basis for testing ad validation. 
